@@ -1,1 +1,4 @@
 # House-Price-Prediction
+In this project, we focused on training various machine learning models to predict house prices. The dataset consisted of 81 different variables, including missing values, categorical variables, and outliers. To address these challenges, we employed techniques such as correlation analysis, creating dummy variables, and applying critical thinking to preprocess the data effectively.
+
+For the regression modeling, we utilized multiple regression algorithms including GradientBoostingRegressor, StackingRegressor, RandomForestRegressor, and ExtraTreesRegressor. Among these models, the stacking regression model demonstrated exceptional performance. It achieved an impressively low mean squared error of 0.022, indicating its superior predictive accuracy in estimating house prices.
